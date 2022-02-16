@@ -1,0 +1,5 @@
+{"monster": {
+    "url": "http://rss.jobsearch.monster.com/rssquery.ashx?q=",
+    "item": ["title", "description", "link", "guid", "pubdate"]
+ }
+}
